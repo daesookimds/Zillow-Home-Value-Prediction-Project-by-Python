@@ -25,4 +25,4 @@ and it is recorded in the transactions file train.csv. In this competition, you 
 - sample_submission.csv - a sample submission file in the correct format
 
 #### Data fields
-Please refer to zillow_data_dictionary.xlsx
+- Please refer to zillow_data_dictionary.xlsx
